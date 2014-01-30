@@ -1,0 +1,44 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.73.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 da61d7116c0bfb7ed4da3cafe05aca19b085c1ea MANIFEST
+SHA1 1b7d8d1c8b1cb02714972438e128bcdf64ae4004 META.yml
+SHA1 70001fa7c2548cafaf6fd8f9c1909ad42f936db6 Makefile.PL
+SHA1 b3b720a8eea6f8919e0bc68a60db7cfce8e6089a README
+SHA1 08ef9dc87e4c9f4dc2cc1c99b75238bfbc50d9f2 html/Callbacks/RTx-QuickUpdateUserComments/User/Summary.html/BeforePortlets
+SHA1 1ed0c2244ba51be8f536a20c26ffa8dc9ae53b99 html/User/Elements/Portlets/EditComments
+SHA1 8a924add836b60fb23b25c8506d45945e02f42f4 inc/Module/Install.pm
+SHA1 2d0fad3bf255f8c1e7e1e34eafccc4f595603ddc inc/Module/Install/Base.pm
+SHA1 f0e01fff7d73cd145fbf22331579918d4628ddb0 inc/Module/Install/Can.pm
+SHA1 7328966e4fda0c8451a6d3850704da0b84ac1540 inc/Module/Install/Fetch.pm
+SHA1 b62ca5e2d58fa66766ccf4d64574f9e1a2250b34 inc/Module/Install/Makefile.pm
+SHA1 1aa925be410bb3bfcd84a16985921f66073cc1d2 inc/Module/Install/Metadata.pm
+SHA1 40df6f8d889b52eef379f04af6227f9302b23bf9 inc/Module/Install/RTx.pm
+SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
+SHA1 e4196994fa75e98bdfa2be0bdeeffef66de88171 inc/Module/Install/Win32.pm
+SHA1 c3a6d0d5b84feb3280622e9599e86247d58b0d18 inc/Module/Install/WriteAll.pm
+SHA1 41cf45f0aecb874e35d51c4eac272b9c2dbd79b2 lib/RTx/QuickUpdateUserComments.pm
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.14 (Darwin)
+
+iQEVAwUBUumhz2DwnESVNIQzAQJxwQf/XNh6HKs1mOb5nDvZFA+c2HJCP4l3CBL1
+sp/nqhYKZ5wDPHdjOM0A8S4gojosCftIP/zMwa/WQmDMHwIhJ+sihtancPQILww1
+ftB71GUs2uOzbZljZZbt4KiLx7AbJ7svmd1/R6N1MOfcG6jYGRDQPxhQumzJEUUX
+rtfprw5JpWKwXMm4YaRQW1UAM2fhbEtYhkmPwX1GIMTDQZln65j4fB8cTWuJtgDa
+NZ8AZztIOy1e3NvEb19M/9ZTq0HDmDcfbA14+FqeFWgkcGm93DnY+3jBQbB+5X5N
+gGDm+HgrpppAU+KST6+bGBN6MxzH0XnbEYTtOfA4MI0dWM6qliWiQA==
+=TqnA
+-----END PGP SIGNATURE-----
