@@ -14,10 +14,13 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 da61d7116c0bfb7ed4da3cafe05aca19b085c1ea MANIFEST
-SHA1 1b7d8d1c8b1cb02714972438e128bcdf64ae4004 META.yml
+SHA1 a1a4430616dd8af2607ff6fb146aacf0fd8fd351 Changes
+SHA1 d62a1b852e5314d58928279b3e26d540dd36cfa8 MANIFEST
+SHA1 30b2407d4b73b6c749b6161aebef6c81c61c76d4 MANIFEST.SKIP
+SHA1 be0b3af3b272c61fdb552ff77533f718b14303c5 META.yml
 SHA1 70001fa7c2548cafaf6fd8f9c1909ad42f936db6 Makefile.PL
 SHA1 b3b720a8eea6f8919e0bc68a60db7cfce8e6089a README
+SHA1 c42297373f0a0d37bd1803b5634833a4240b5593 html/Callbacks/RTx-QuickUpdateUserComments/Ticket/Elements/ShowRequestor/AfterComments
 SHA1 08ef9dc87e4c9f4dc2cc1c99b75238bfbc50d9f2 html/Callbacks/RTx-QuickUpdateUserComments/User/Summary.html/BeforePortlets
 SHA1 1ed0c2244ba51be8f536a20c26ffa8dc9ae53b99 html/User/Elements/Portlets/EditComments
 SHA1 8a924add836b60fb23b25c8506d45945e02f42f4 inc/Module/Install.pm
@@ -30,15 +33,15 @@ SHA1 40df6f8d889b52eef379f04af6227f9302b23bf9 inc/Module/Install/RTx.pm
 SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
 SHA1 e4196994fa75e98bdfa2be0bdeeffef66de88171 inc/Module/Install/Win32.pm
 SHA1 c3a6d0d5b84feb3280622e9599e86247d58b0d18 inc/Module/Install/WriteAll.pm
-SHA1 41cf45f0aecb874e35d51c4eac272b9c2dbd79b2 lib/RTx/QuickUpdateUserComments.pm
+SHA1 15ce6c778867e73d3c385c1562f854e4ed335a9f lib/RTx/QuickUpdateUserComments.pm
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.14 (Darwin)
 
-iQEVAwUBUumhz2DwnESVNIQzAQJxwQf/XNh6HKs1mOb5nDvZFA+c2HJCP4l3CBL1
-sp/nqhYKZ5wDPHdjOM0A8S4gojosCftIP/zMwa/WQmDMHwIhJ+sihtancPQILww1
-ftB71GUs2uOzbZljZZbt4KiLx7AbJ7svmd1/R6N1MOfcG6jYGRDQPxhQumzJEUUX
-rtfprw5JpWKwXMm4YaRQW1UAM2fhbEtYhkmPwX1GIMTDQZln65j4fB8cTWuJtgDa
-NZ8AZztIOy1e3NvEb19M/9ZTq0HDmDcfbA14+FqeFWgkcGm93DnY+3jBQbB+5X5N
-gGDm+HgrpppAU+KST6+bGBN6MxzH0XnbEYTtOfA4MI0dWM6qliWiQA==
-=TqnA
+iQEVAwUBUuqhOGDwnESVNIQzAQIi7ggAuSyXMEK5RyuGor/d6Ntw44JCClXdxSW7
+sxoVwNl7kXTTDLUWSSUY74od28Q7t0yRYeMVKrtquOIZDGPQSIr7KXWb3XfXj0kB
+C8aUIJO4sFQxaRbUBAeVJZZcwmnjYXgC9VucEvHQaRx+aLXjSsPjTrqcJrV8GLbu
+smUdExUbvc+DIfCG+gQSxdYBDklPzgtMq6WcqjnIR2X2n11FKrkS2Vmy2QZg2rdI
+d9g0kZJzWc/YQinPxtBI33pyPEsjzU6jzZ9LJlMaqRaY6YtATbjerDfOVPcSA7SC
+AAr4XnAAhqmf1qukrDCyrFUJ11rkPiSDz0qstNlf6XE1ECxxhac/JA==
+=PJRq
 -----END PGP SIGNATURE-----
